@@ -36,7 +36,6 @@ run();
 
 ## Browser Version
 
-AltRepo Hash is the JS companion to the browser-based hash tools on AltRepo.
+`@altrepo/hash` is the JS companion to the [AltRepo Hash browser tool](https://altrepo.net/hash/text-hash-generator.html).
 
-More hash tools:
-https://altrepo.net/hash/
+Browse more [AltRepo hash tools](https://altrepo.net/hash/).
