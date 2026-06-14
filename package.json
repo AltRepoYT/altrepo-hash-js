@@ -40,10 +40,10 @@
   "homepage": "https://altrepo.net/hash/text-hash-generator.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alterpoYT/altrepo-hash.git"
+    "url": "https://github.com/AltRepoYT/altrepo-hash-js.git"
   },
   "bugs": {
-    "url": "https://github.com/alterpoYT/altrepo-hash/issues"
+    "url": "https://github.com/AltRepoYT/altrepo-hash-js/issues"
   },
   "author": "AltRepo <void@altrepo.net>",
   "license": "MIT",
